@@ -2,7 +2,7 @@
 
 This repository contains my C++ programs:
 
-1. Calculator Program
+1. Calculator 
 2. Number Guessing Game
 3. Tic-Tac-Toe Game
 
